@@ -10,11 +10,11 @@ This is a **group project**. Each member was responsible for specific modules:
 
 | Name | GitHub | Responsibility | Status |
 |------|--------|----------------|--------|
-| **Işıl Hocaoğlu** | | Loader, Integration & Makefile | ✅ Completed |
-| **Nisa Of** | [@Nisaof](https://github.com/Nisaof) | Assembler Pass 1 - Parser | ✅ Completed |
-| **Yiğit Can Turan** | [@Yigit1708](https://github.com/Yigit1708) | Assembler Pass 1 - Tables & Partial Code | ✅ Completed |
-| **Efe Demirci** | [@efedemirci04](https://github.com/efedemirci04) | Assembler Pass 2 | ✅ Completed |
-| **Deniz Baltaş** | [@denizbaltas](https://github.com/denizbaltas) | Linker | ✅ Completed |
+| **Işıl Hocaoğlu** | | Loader, Integration & Makefile |
+| **Nisa Of** | [@Nisaof](https://github.com/Nisaof) | Assembler Pass 1 - Parser |
+| **Yiğit Can Turan** | [@Yigit1708](https://github.com/Yigit1708) | Assembler Pass 1 - Tables & Partial Code |
+| **Efe Demirci** | [@efedemirci04](https://github.com/efedemirci04) | Assembler Pass 2 |
+| **Deniz Baltaş** | [@denizbaltas](https://github.com/denizbaltas) | Linker |
 
 ### My Contribution
 
@@ -148,6 +148,4 @@ END
 1035 3
 ```
 
-## 📄 License
-
-This project was developed for educational purposes as part of CSE 232 coursework.
+## 📄 This project was developed for educational purposes as part of CSE 232 coursework.
